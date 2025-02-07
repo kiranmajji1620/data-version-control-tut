@@ -1,4 +1,7 @@
 [core]
     remote = remote_storage
+[cache]
+    dir = /home/sai-tt0670/Desktop/ft_nlp/dvc/cached_dir
+    type = symlink
 ['remote "remote_storage"']
     url = /home/sai-tt0670/Desktop/ft_nlp/dvc/dvc_remote
