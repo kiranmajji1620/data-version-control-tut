@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = /home/sai-tt0670/Desktop/ft_nlp/dvc/dvc_remote
